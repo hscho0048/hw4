@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b + 10 #아무거나 더하기
+    return a + b #최종 프로그램
 def subtract(a, b):
     return a - b
 def multiply(a, b):
